@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011144281957",
+    "project_id": "commerceslf",
+    "storage_bucket": "commerceslf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011144281957:android:9febcd300061bdf9699b8c",
+        "android_client_info": {
+          "package_name": "com.af.commerces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011144281957-k0hnenhm6v72c5qd6mbce8vll6k44otq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-MDtwYhY6aBzI7ye3MoZU3vVgrmJVcPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011144281957-k0hnenhm6v72c5qd6mbce8vll6k44otq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
